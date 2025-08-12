@@ -3,7 +3,7 @@ import react from '@vitejs/plugin-react';
 
 export default defineConfig({
   plugins: [react()],
-  base: '/RA_props-catalog/',
+  base: '/propslist/',
   server: {
     open: true,
   },
